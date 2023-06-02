@@ -3,14 +3,16 @@
 <h3 align="center">for QQNT/Electron</h3>
 <h4 align="center">Electron 客户端插件管理器</h4>
 
-由于可预期的 QQNT 安全性更新，此项目将最早在第一个 QQNT For Windows 正式版（无白名单版本）推出后开源。
+BetterUniverse for QQNT/Electron ( 下文简称 BetterQQNT )。
+
+由于可预期的 QQNT 安全性更新，BetterQQNT 将最早在第一个 QQNT For Windows 正式版（无白名单版本）推出后开源。
 
 目前此仓库仅作文档及版本发布用。
 
-本插件仅为优化 QQ 和其他 Electron 应用的使用体验而生，**如有侵权，请联系我们删除**。
+BetterQQNT 仅为优化 QQ 和其他 Electron 应用的使用体验而生，**如有侵权，请联系我们删除**。
 
 # 注意
-本插件不保证在所有版本上的通用可用性，也不保证安全性（封号，崩溃等）。
+BetterQQNT 不保证在所有版本上的通用可用性，也不保证安全性（封号，崩溃等）。
 
 在使用此插件后所遇到的 Bug，崩溃等，请**不要**向官方反馈，而应在此 Repo 下发送 Issue。
 
@@ -18,7 +20,7 @@
 
 请**不要**发送视频，帖子等来宣传此插件。
 
-本插件可能将于未来的某一天突然跑路。
+BetterQQNT 可能将于未来的某一天突然跑路。
 
 # 功能
   - Koishi 机器人
@@ -42,6 +44,11 @@
 ![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/95ffbd5a-1889-4570-8cdd-1b1f15b3e096)
 
 ![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/0057c818-a4ed-4266-a1eb-e779cdfeee8b)
+
+# 跨平台？
+BetterQQNT 的 Linux 编译版本依然在 segfault 中，由于 Linux 兼容的优先级较低，该 Bug 可能会在第一个正式版前被修复，然后 Linux 编译版本将会被发布。
+
+MacOSX 由于过于麻烦，在可预期的未来内不会被支持。
 
 
 # 关于开发工具
