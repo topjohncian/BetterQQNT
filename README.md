@@ -58,3 +58,6 @@ MacOSX 由于过于麻烦，在可预期的未来内不会被支持。
 由于 API 仍处于极不稳定的状态，插件文档暂未对外开放。
 
 如想参与开发请与 Koishi NT Team 联系。
+
+
+![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/17ee6805-0422-4568-a865-d1dfb23d408f)
