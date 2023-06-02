@@ -11,6 +11,8 @@ BetterUniverse for QQNT/Electron ( 下文简称 BetterQQNT )。
 
 BetterQQNT 仅为优化 QQ 和其他 Electron 应用的使用体验而生，**如有侵权，请联系我们删除**。
 
+此项目感谢所有 Koishi NT 成员和 Skykeyjoker 的协助。
+
 # 注意
 BetterQQNT 不保证在所有版本上的通用可用性，也不保证安全性（封号，崩溃等）。
 
