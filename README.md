@@ -47,6 +47,16 @@ BetterQQNT 可能将于未来的某一天突然跑路。
 
 ![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/0057c818-a4ed-4266-a1eb-e779cdfeee8b)
 
+# 协议安全风险
+
+如你所见，此插件的一个功能为 RedProtocol 机器人协议。
+此协议将允许机器人框架程序化操纵 Electron 应用并发送消息。
+此协议在第一次使用时将会生成一个 token，并使用此 token 来完成鉴权。
+请不要泄露此 token。
+导致账号胡乱发送消息甚至封号后果自负。
+
+BetterQQNT 计划内将支持关闭此功能。
+
 # 跨平台？
 BetterQQNT 的 Linux 编译版本依然在 segfault 中，由于 Linux 兼容的优先级较低，该 Bug 可能会在第一个正式版前被修复，然后 Linux 编译版本将会被发布。
 
