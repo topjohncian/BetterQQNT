@@ -3,7 +3,7 @@
 <h3 align="center">for QQNT/Electron</h3>
 <h4 align="center">Electron 客户端插件管理器</h4>
 
-由于可预期的 QQNT 安全性更新，此项目将在第一个 QQNT For Windows 正式版（无白名单版本）推出后开源。
+由于可预期的 QQNT 安全性更新，此项目将最早在第一个 QQNT For Windows 正式版（无白名单版本）推出后开源。
 
 目前此仓库仅作文档及版本发布用。
 
@@ -35,6 +35,7 @@
   - 消息一键跳转（到上条未读，在 at 间切换等等）
   - 更多的主题
   - +1 按钮
+  - 适配 Windows 11 Mica
 
 # 预览
 
