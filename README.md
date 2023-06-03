@@ -43,7 +43,7 @@ BetterQQNT 可能将于未来的某一天突然跑路。
 
 # 预览
 
-![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/95ffbd5a-1889-4570-8cdd-1b1f15b3e096)
+![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/4b166ea9-d8fb-4b0d-8d1e-ef754f0d1eda)
 
 ![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/0057c818-a4ed-4266-a1eb-e779cdfeee8b)
 
