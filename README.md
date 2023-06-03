@@ -47,6 +47,16 @@ BetterQQNT 可能将于未来的某一天突然跑路。
 
 ![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/0057c818-a4ed-4266-a1eb-e779cdfeee8b)
 
+# 安装
+### 手动安装
+将 `better-qqnt.dll` 重命名为 `version.dll` 并放入 QQNT 安装文件夹。
+
+### 使用 BetterQQNT-Launcher
+在 Koishi 中安装插件 `qq-launcher` 或直接使用 https://github.com/koishi-nt/BetterQQNT-Launcher
+
+### 使用 BetterUniversal-Installer
+施工中
+
 # 协议安全风险
 
 如你所见，此插件的一个功能为 RedProtocol 机器人协议。
